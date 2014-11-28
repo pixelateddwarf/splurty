@@ -19,6 +19,9 @@ gem 'coffee-rails', '~> 4.0.0'
 
 gem 'bootstrap-sass', '~> 3.3.0'
 
+# simple form for input
+gem 'simple_form'
+
 gem 'autoprefixer-rails'
 
 
