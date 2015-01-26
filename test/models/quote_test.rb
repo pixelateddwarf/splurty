@@ -10,7 +10,7 @@ class QuoteTest < ActiveSupport::TestCase
   end
 
   def unique_tag
-    self.author.split(" ")
+    10
   end
 
 end
